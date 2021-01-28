@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{1897e032-8c0f-49a5-b305-288787546a4d}">
+        <property name="assetPath">
+            <value>Questions/Simulation.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.0187528344671204</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{120238d6-3397-4bbb-967d-18dac9259100}</destination>
+        </relationship>
+    </object>
+</objects>

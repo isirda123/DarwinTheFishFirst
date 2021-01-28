@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{c4cc1974-2c2a-4ca3-bd7a-a28bd5f92bb7}">
+        <property name="assetPath">
+            <value>Musiques/Sad 90 bpm.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>160.02083900226756</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{120238d6-3397-4bbb-967d-18dac9259100}</destination>
+        </relationship>
+    </object>
+</objects>

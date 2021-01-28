@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{27d162e2-d203-45e8-9af1-bbf534e22acf}">
+        <property name="assetPath">
+            <value>Meme Content/Memes don't die.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.4187528344671203</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{120238d6-3397-4bbb-967d-18dac9259100}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{2690da1a-5c0e-42c8-b31d-7cf73d323cee}">
+        <property name="assetPath">
+            <value>Questions/Do u no da wae 3.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.8687528344671203</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{120238d6-3397-4bbb-967d-18dac9259100}</destination>
+        </relationship>
+    </object>
+</objects>
